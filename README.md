@@ -10,4 +10,4 @@ SAP Field Service Management, Skedulo, ServiceMax
 ## Tecnologie
 ChatGPT, MongoDB, C#, JavaScript, Python
 ## Requisiti
-(![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg))
+(![Alt text](https://yuml.me/a47c252d.svg))
