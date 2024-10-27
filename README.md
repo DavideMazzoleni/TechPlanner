@@ -9,3 +9,5 @@ disorganizzazione e inefficienza nella gestione dei turni e della manutenzione d
 SAP Field Service Management, Skedulo, ServiceMax
 ## Tecnologie
 ChatGPT, MongoDB, C#, JavaScript, Python
+## Requisiti
+https://yuml.me/a47c252d.svg
