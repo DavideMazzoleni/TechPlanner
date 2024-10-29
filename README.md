@@ -1,9 +1,9 @@
 # TechPlanner
-## Tag Line
+## Tagline
 Applicativo per la gestione veloce e ottimale dei propri dipendenti 
 ## Descrizione
 Gestionale per ottimizzare la distribuzione dei turni lavorativi dei dipendenti di un'azienda che necessita della revisione e manutenzione delle macchine industriali. Questo strumento ha l'obiettivo di migliorare l'efficienza operativa, garantire la corretta gestione delle risorse umane e facilitare la pianificazione delle attività di manutenzione, assicurando che ogni macchina riceva l'attenzione necessaria nei tempi stabiliti, sffuttando un algoritmo di inteligenza artifiiale per automatizzare il processo.
-## Targhet 
+## Target 
 Aziende che usufruiscono di diverse macchine per i processi lavoratrivi che necessitano di continui controlli
 ## Problema
 disorganizzazione e inefficienza nella gestione dei turni e della manutenzione delle macchine industriali, ottimizzando l’assegnazione del personale in maniera automatica, riducendo i tempi di fermo macchina, garantendo la conformità normativa e migliorando la comunicazione tra i team.
