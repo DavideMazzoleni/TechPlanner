@@ -19,4 +19,17 @@ Le tecnologie che ho ritenuto gpiù ideonee alla creazione del progetto sono:
 *  JavaScript: utilizzato insieme a Node.js per il backend, e insieme ad HTML e CSS per il frontend
 *  Python: per la creazione e addestramento di un inteligenza artificiale che permettta l'automatico smistamento dei turni dei dipendenti
 ## Requisiti
-![Alt text](https://yuml.me/a47c252d.svg)
+### Requisitifunzionali
+
+- Accesso al sistema per dipendenti e capi.
+- Inserimento e aggiornamento dei dati personali da parte dei dipendenti.
+- Visualizzazione e modifica degli orari tramite calendario integrato.
+- Comunicazione tra utenti per facilitare la collaborazione.
+- Monitoraggio dello stato delle macchine da remoto.
+- Aggiunta e gestione di nuove macchine nel sistema.
+- Monitoraggio delle attività dei dipendenti da parte dei capi.
+- Gestione e assegnazione automatica dei turni.
+- Invio di notifiche ai dipendenti per aggiornamenti sui turni.
+- Salvataggio e archiviazione dei dati relativi ai dipendenti e alle attività.
+- 
+![Alt text](http://yuml.me/d314a4d1.svg)
