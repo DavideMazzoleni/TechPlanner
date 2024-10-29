@@ -6,7 +6,10 @@ Aziende che usufruiscono di diverse macchine per i processi lavoratrivi che nece
 ## Problema
 disorganizzazione e inefficienza nella gestione dei turni e della manutenzione delle macchine industriali, ottimizzando l’assegnazione del personale, riducendo i tempi di fermo macchina, garantendo la conformità normativa e migliorando la comunicazione tra i team.
 ## Competitor 
-SAP Field Service Management, Skedulo, ServiceMax
+I competitor del mio applicativo sono le varie app che permettono una gestione dei dipendenti, per esempio: 
+1. SAP Field Service Management
+2.  Skedulo
+3.   ServiceMax
 ## Tecnologie
 ChatGPT, MongoDB, C#, JavaScript, Python
 ## Requisiti
