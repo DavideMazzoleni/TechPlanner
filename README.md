@@ -31,5 +31,5 @@ Le tecnologie che ho ritenuto gpiù ideonee alla creazione del progetto sono:
 - Gestione e assegnazione automatica dei turni.
 - Invio di notifiche ai dipendenti per aggiornamenti sui turni.
 - Salvataggio e archiviazione dei dati relativi ai dipendenti e alle attività.
-- 
+  
 ![Alt text](http://yuml.me/d314a4d1.svg)
