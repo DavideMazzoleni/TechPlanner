@@ -14,7 +14,7 @@ I competitor del mio applicativo sono le varie app che permettono una gestione d
 3.   ServiceMax
 ## Tecnologie
 Le tecnologie che ho ritenuto gpiù ideonee alla creazione del progetto sono: 
-*  ChatGPT: per l'assistenza surante la creazione del progetto
+*  ChatGPT: per l'assistenza durante la creazione del progetto
 *  MongoDB: per dati più flessibili e non strutturati, utile in applicazioni che richiedono elevata scalabilità.
 *  JavaScript: utilizzato insieme a Node.js per il backend, e insieme ad HTML e CSS per il frontend
 *  Python: per la creazione e addestramento di un inteligenza artificiale che permettta l'automatico smistamento dei turni dei dipendenti
