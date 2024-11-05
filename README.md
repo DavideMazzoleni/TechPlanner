@@ -38,7 +38,7 @@ Le tecnologie che ho ritenuto gpiù ideonee alla creazione del progetto sono:
 - Assistenza del manutentore o da parte del software stesso tramite la chiamata a tecnici esterni o la fornutura dii mauali riferiti alla macchina
 - Il software dovrà essere in grado di fornire video o link utili per la formazione dei dipendenti
   
-![Alt text](http://yuml.me/c9a9a4bd.svg)
+![Alt text](http://yuml.me/45ee01d6.svg)
 
 ### Requisiti non funzionali
 - **Performance**: il sistema deve rispondere a tutte le richieste in meno di 2 secondi.
