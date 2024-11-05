@@ -6,6 +6,7 @@
 [Dipendente]-(Comunicazione con altri utenti)
 [Dipendente]-(Controllo macchine da remoto)
 [Dipendente]-(Conferma lavoro completato)
+[Dipendente]-(Segnalazione immediata di guasti critici)
 (Conferma lavoro completato)>(Report sulla manutenzione effettuata)
 [Responsabile d'azienda]-(inserire nuove macchine del sistema)
 (inserire nuove macchine del sistema)>(Inserimento delle specifiche)
