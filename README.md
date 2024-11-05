@@ -30,6 +30,7 @@ Le tecnologie che ho ritenuto gpiù ideonee alla creazione del progetto sono:
 - Inserimento dei protocolli per ogni nuova macchina inserita.
 - Monitoraggio delle attività dei dipendenti da parte dei responsabili d'azienda.
 - I dipendenti devono essere in grado di creare un report sulla manutenzione effettuata
+- I dipendenti devono poter avvisare i respnsabili in modo semplice e veloce in caso di guasti critici della macchina
 - Gestione e assegnazione automatica dei turni.
 - Invio di notifiche ai dipendenti per aggiornamenti sui turni.
 - Salvataggio e archiviazione dei dati relativi ai dipendenti e alle attività.
@@ -48,6 +49,7 @@ Le tecnologie che ho ritenuto gpiù ideonee alla creazione del progetto sono:
 - **Manutenibilità**: il sistema deve essere aggiornabile e le modifiche al codice devono essere facili da implementare.
 - **Portabilità**: compatibilità su diversi sistemi operativi o browser.
 - **Privatezza**: i dati interni all'azienda non possono essere divulgati esternamente
+- **Accessibilità offline**: i dati possono essere modificati anche in assenza di rete e poi successivamente sincronizzati alla riconnessine
 
 ### Requisiti di dominio
 - **Supporto alle regole aziendali**: implementare le specifiche politiche e normative dell’azienda.
