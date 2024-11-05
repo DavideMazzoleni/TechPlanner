@@ -35,7 +35,7 @@ Le tecnologie che ho ritenuto gpiù ideonee alla creazione del progetto sono:
 - Possibilità da parte dei responsabili d'azienda di attivare e disattivare l'AI manualmente.
 - Assistenza del manutentore o da parte del software stesso o da operatori esterni
   
-![Alt text](http://yuml.me/52a2cb76.svg)
+![Alt text](http://yuml.me/c9a9a4bd.svg)
 
 ### Requisiti non funzionali
 - **Performance**: il sistema deve rispondere a tutte le richieste in meno di 2 secondi.
