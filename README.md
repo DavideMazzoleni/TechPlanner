@@ -29,11 +29,13 @@ Le tecnologie che ho ritenuto gpiù ideonee alla creazione del progetto sono:
 - Aggiunta e gestione di nuove macchine nel sistema.
 - Inserimento dei protocolli per ogni nuova macchina inserita.
 - Monitoraggio delle attività dei dipendenti da parte dei responsabili d'azienda.
+- I dipendenti devono essere in grado di creare un report sulla manutenzione effettuata
 - Gestione e assegnazione automatica dei turni.
 - Invio di notifiche ai dipendenti per aggiornamenti sui turni.
 - Salvataggio e archiviazione dei dati relativi ai dipendenti e alle attività.
 - Possibilità da parte dei responsabili d'azienda di attivare e disattivare l'AI manualmente.
-- Assistenza del manutentore o da parte del software stesso o da operatori esterni
+- Assistenza del manutentore o da parte del software stesso tramite la chiamata a tecnici esterni o la fornutura dii mauali riferiti alla macchina
+- Il software dovrà essere in grado di fornire video o link utili per la formazione dei dipendenti
   
 ![Alt text](http://yuml.me/c9a9a4bd.svg)
 
