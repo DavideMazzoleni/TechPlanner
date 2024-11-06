@@ -57,3 +57,12 @@ Le tecnologie che ho ritenuto gpiù ideonee alla creazione del progetto sono:
 - **Conformità alle normative del settore**: il sistema deve rispettare le normative di sicurezza e privacy imposte nel settore industriale.
 - **Interoperabilità**: integrazione con altri sistemi aziendali e software di manutenzione per scambio dati efficiente.
 - **Normative contrattuali**: seguire tutte le norme relative al contratto aziendale
+
+## Business
+- Modello di business utilizzato: freemium
+- Modalità premium: Aumenta il nuemro di dipendenti e macchine inseribili nell'applicativo e aumenta le prestazioni dell'AI
+- Va a risolvere la disorganizzazione all'interno delle aziende per la manutenzione, da parte dei dipendenti, delle macchine
+- Riesce a migliorare l'efficienza dell'azienda tramite una programmazione turni automatica e con comunicazione veloce
+- L'applicativo rispetto ai competitor permette un assistenza in tempo reale ai dipendenti durante la manutenzione
+- Si abbassano i costi da parte dei datori di azinede per l'assistenza da tecnici esterni
+- Investimento richiesto: 100000€ al 25%
