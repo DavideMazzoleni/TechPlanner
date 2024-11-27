@@ -6,7 +6,7 @@ Gestionale per ottimizzare la distribuzione dei turni lavorativi dei dipendenti 
 ## Target 
 Aziende che usufruiscono di diverse macchine per i processi lavoratrivi che necessitano di continui controlli
 ## Problema
-disorganizzazione e inefficienza nella gestione dei turni e della manutenzione delle macchine industriali, ottimizzando l’assegnazione del personale in maniera automatica, riducendo i tempi di fermo macchina, garantendo la conformità normativa e migliorando la comunicazione tra i team.
+disorganizzazione e inefficienza nella gestione dei turni per la manutenzione delle macchine industriali
 ## Competitor 
 I competitor del mio applicativo sono le varie app che permettono una gestione dei dipendenti, per esempio: 
 1. SAP Field Service Management
@@ -14,7 +14,6 @@ I competitor del mio applicativo sono le varie app che permettono una gestione d
 3.   ServiceMax
 ## Tecnologie
 Le tecnologie che ho ritenuto gpiù ideonee alla creazione del progetto sono: 
-*  ChatGPT: per l'assistenza durante la creazione del progetto
 *  MongoDB: per dati più flessibili e non strutturati, utile in applicazioni che richiedono elevata scalabilità.
 *  JavaScript: utilizzato insieme a Node.js per il backend, e insieme ad HTML e CSS per il frontend
 *  Python: per la creazione e addestramento di un inteligenza artificiale che permettta l'automatico smistamento dei turni dei dipendenti
@@ -25,7 +24,7 @@ Le tecnologie che ho ritenuto gpiù ideonee alla creazione del progetto sono:
 - Inserimento e aggiornamento dei dati personali da parte dei dipendenti.
 - Visualizzazione e modifica degli orari tramite calendario integrato.
 - Comunicazione tra utenti per facilitare la collaborazione.
-- Monitoraggio dello stato delle macchine da remoto ( Quando possibile ).
+- Monitoraggio dello stato delle macchine da remoto quando dispongono di IOT.
 - Aggiunta e gestione di nuove macchine nel sistema.
 - Inserimento dei protocolli per ogni nuova macchina inserita.
 - Monitoraggio delle attività dei dipendenti da parte dei responsabili d'azienda.
