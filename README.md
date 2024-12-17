@@ -67,4 +67,4 @@ Le tecnologie che ho ritenuto gpiù ideonee alla creazione del progetto sono:
 - Investimento richiesto: 100000€ al 25%
 
 ## SWOT
-![Alt text](./SWOT.jpg)
+![Alt text](./SWOT.png)
