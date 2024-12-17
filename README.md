@@ -4,7 +4,7 @@ Applicativo per la gestione veloce e ottimale dei propri dipendenti
 ## Descrizione
 Gestionale per ottimizzare la distribuzione dei turni lavorativi dei dipendenti di un'azienda che necessita della revisione e manutenzione delle macchine industriali. Questo strumento ha l'obiettivo di migliorare l'efficienza operativa, garantire la corretta gestione delle risorse umane e facilitare la pianificazione delle attività di manutenzione, assicurando che ogni macchina riceva l'attenzione necessaria nei tempi stabiliti, sffuttando un algoritmo di inteligenza artifiiale per automatizzare il processo.
 ## Target 
-Aziende che usufruiscono di diverse macchine per i processi lavoratrivi che necessitano di continui controlli
+Aziende che usufruiscono di diverse macchine per i processi lavorativi che necessitano di continui controlli
 ## Problema
 Disorganizzazione e inefficienza nella gestione dei turni per la manutenzione delle macchine industriali
 ## Competitor 
