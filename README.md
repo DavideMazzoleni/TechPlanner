@@ -6,7 +6,7 @@ Gestionale per ottimizzare la distribuzione dei turni lavorativi dei dipendenti 
 ## Target 
 Aziende che usufruiscono di diverse macchine per i processi lavoratrivi che necessitano di continui controlli
 ## Problema
-disorganizzazione e inefficienza nella gestione dei turni per la manutenzione delle macchine industriali
+Disorganizzazione e inefficienza nella gestione dei turni per la manutenzione delle macchine industriali
 ## Competitor 
 I competitor del mio applicativo sono le varie app che permettono una gestione dei dipendenti, per esempio: 
 1. SAP Field Service Management
