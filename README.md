@@ -65,3 +65,6 @@ Le tecnologie che ho ritenuto gpiù ideonee alla creazione del progetto sono:
 - L'applicativo rispetto ai competitor permette un assistenza in tempo reale ai dipendenti durante la manutenzione
 - Si abbassano i costi da parte dei datori di azinede non esendoci più bisogno dell'assistenza da tecnici esterni
 - Investimento richiesto: 100000€ al 25%
+
+## SWOT
+![Alt text](./SWOT.jpg)
